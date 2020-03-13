@@ -1,5 +1,5 @@
 FROM debian
-MAINTAINER moi/demo <moi@moi.fr>
+MAINTAINER jcattin1699/debianangularcli <johana.cattin@gmail.com>
 RUN apt-get update
 RUN apt-get install -y curl
 RUN apt-get install -y software-properties-common
